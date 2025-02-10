@@ -11,6 +11,8 @@ about:
       href: https://x.com/bggjonsson
     - icon: github
       href: https://github.com/bgautijonsson
+    - icon: file-earmark-person-fill
+      href: https://bggj.is/resume
 toc: true
 ---
 
