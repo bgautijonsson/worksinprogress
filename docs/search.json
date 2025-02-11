@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Portfolio: Works in Progress",
     "section": "",
-    "text": "I am a PhD student of statistics at the University of Iceland, researching spatially distributed extreme rainfall and methods for modeling data-level dependence using copulas. Prior to this, I have worked extensively with Bayesian hierarchical models, having applied them to forecasting parliamentary elections and age-dependent mortality as well as the modeling of COVID-19 disease spread in Iceland during the pandemic. I also manage metill.is, an Icelandic website where I use official data to inform the discourse on current matters.\n\n\n\nBrynjólfur Gauti Guðrúnar Jónsson\nPhD Student in Statistics\nUniversity of Iceland\nEmail: brynjolfur@hi.is"
+    "text": "I am a PhD student of statistics at the University of Iceland, researching spatially distributed extreme rainfall and methods for modeling data-level dependence using copulas. Prior to this, I have worked extensively with Bayesian hierarchical models, having applied them to forecasting parliamentary elections and age-dependent mortality as well as the modeling of COVID-19 disease spread in Iceland during the pandemic. I also manage metill.is, an Icelandic website where I use official data to inform the discourse on current matters.\nI’m experienced with most types of data visualisation, the usual x-axis + y-axis type, network plots, spatial plots and even some generative art. All of my data viz is made in R using some combination of {ggplot2} + extensions.\n\n\n\nBrynjólfur Gauti Guðrúnar Jónsson\nPhD Student in Statistics\nUniversity of Iceland\nEmail: brynjolfur@hi.is"
   },
   {
     "objectID": "index.html#overview",
     "href": "index.html#overview",
     "title": "Portfolio: Works in Progress",
     "section": "",
-    "text": "I am a PhD student of statistics at the University of Iceland, researching spatially distributed extreme rainfall and methods for modeling data-level dependence using copulas. Prior to this, I have worked extensively with Bayesian hierarchical models, having applied them to forecasting parliamentary elections and age-dependent mortality as well as the modeling of COVID-19 disease spread in Iceland during the pandemic. I also manage metill.is, an Icelandic website where I use official data to inform the discourse on current matters."
+    "text": "I am a PhD student of statistics at the University of Iceland, researching spatially distributed extreme rainfall and methods for modeling data-level dependence using copulas. Prior to this, I have worked extensively with Bayesian hierarchical models, having applied them to forecasting parliamentary elections and age-dependent mortality as well as the modeling of COVID-19 disease spread in Iceland during the pandemic. I also manage metill.is, an Icelandic website where I use official data to inform the discourse on current matters.\nI’m experienced with most types of data visualisation, the usual x-axis + y-axis type, network plots, spatial plots and even some generative art. All of my data viz is made in R using some combination of {ggplot2} + extensions."
   },
   {
     "objectID": "index.html#contact",
